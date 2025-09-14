@@ -9,7 +9,7 @@
     "restart": "pm2 restart THEMIYYA-bot"
   },
   "dependencies": {
-    "@whiskeysockets/baileys": 7.0.0-rc.2",
+    "@whiskeysockets/baileys": 7.0.0.2",
     "api-dylux": "^1.8.5",
     "axios": "^1.12.2",
     "browser-id3-writer": "^6.3.1",
